@@ -18,7 +18,8 @@ This project was developed as part of an academic research experiment in artific
 * **TruthfulQA Benchmarking**: Random selection of questions from TruthfulQA to evaluate truthfulness and robustness.
 * **Statistical & Model-Based Metrics**: Uses BLEU, ROUGE, BLEURT, METEOR, TER, and BERTScore to compare model outputs.
 * **Behavioral Analysis**: Examines how GPT-4o modifies answer length, detail level, and semantic similarity under tipping incentives.
-* **Reproducible Notebook**: A clear Python notebook that runs the full pipeline, from prompt generation to evaluation and visualization.
+* **Reproducible Notebook**: A complete Python notebook that runs the full pipeline, from prompt generation to evaluation and visualization.
+* **Bilingual Resources**: Documentation and analysis available in both English and Italian.
 
 ---
 
@@ -37,3 +38,9 @@ This project was developed as part of an academic research experiment in artific
     * Comparison against the zero-tip condition.
     * Measurement of absolute and percentage increases in character length.
   * *Visualizations*: Plots and summaries highlighting behavioral differences across tip levels.
+
+* **Notebook_ITA.ipynb** 
+  Italian-translated version of the experiment, designed for academic purposes.
+
+* **Presentation_ITA** 
+  Slide deck in Italian summarizing the experiment and its results.
